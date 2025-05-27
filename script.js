@@ -1,6 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    console.log("loaded.......")
-
     const cityInput =document.getElementById("city-input")
     const getWeatherBtn = document.getElementById("get-weather-btn")
     const weatherInfo = document.getElementById("weather-info")
